@@ -1,0 +1,2 @@
+model,target,features,rows_used,mean_absolute_error,root_mean_squared_error,r2_score
+RandomForestRegressor,track_popularity,"danceability, energy, key, loudness, mode, speechiness, acousticness, instrumentalness, liveness, valence, tempo, duration_ms",32833,16.575437816954857,20.950009817497296,0.2931530034454467

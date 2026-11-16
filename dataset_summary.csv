@@ -1,0 +1,6 @@
+metric,value
+Rows (original),32833
+Columns,23
+Duplicate rows,0
+Rows after removing duplicates,32833
+Missing cells,15

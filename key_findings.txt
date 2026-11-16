@@ -1,0 +1,14 @@
+# Findings from the supplied dataset
+
+- Dataset size: 32,833 rows and 23 columns.
+- Duplicate rows: 0.
+- Average track popularity: 42.48.
+- Highest average-popularity genre: pop (47.74).
+- Most frequently represented artist: Martin Garrix (161 rows).
+- Popularity prediction test MAE: 16.58.
+- Popularity prediction test RMSE: 20.95.
+- Popularity prediction test R²: 0.293.
+
+Interpretation: model metrics describe performance on a random held-out row split. Because
+songs can occur in multiple playlist rows, this is not necessarily performance on entirely
+unseen tracks.
